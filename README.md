@@ -1,4 +1,4 @@
-# BackBlaze Cloud Storage API for .NET (Standard/Core)
+# BackBlaze Cloud Storage API And Client for .NET (Standard/Core)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
