@@ -17,6 +17,7 @@ The BackBlaze Cloud Storage API for .NET (Standard/Core) is a versatile library 
 6. [Contributing](#contributing)
 7. [License](#license)
 8. [Contact Information](#contact-information)
+9. [About BackBlaze Cloud Storage](#about-backblaze-cloud-storage)
 
 ## Installation
 
@@ -157,5 +158,12 @@ This project is licensed under the MIT License. For detailed licensing informati
 If you have any questions, feedback, or encounter issues, please don't hesitate to reach out:
 
 - Email: [hello@perfigent.com](mailto:hello@perfigent.com)
+
+## About BackBlaze Cloud Storage
+
+BackBlaze offers a comprehensive cloud storage solution known as BackBlaze B2 Cloud Storage. It's designed for developers and businesses seeking reliable, scalable, and cost-effective cloud storage services.
+
+Learn more about BackBlaze Cloud Storage on the [BackBlaze website](https://www.backblaze.com/b2/cloud-storage.html). Discover how BackBlaze can help you store and manage your data efficiently.
+
 
 **LIFE RUNS ON CODE**
